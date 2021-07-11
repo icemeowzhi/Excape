@@ -1,0 +1,17 @@
+--按键监听事件, 右键该脚本，选择bindShortcut可以绑定想要监听的按键
+--第一参数(KeyState): 按键类型 Enum.KeyState.KeyStatePress | Enum.KeyState.KeyStateHold | Enum.KeyState.KeyStateRelease
+--local firstf=script.Parent
+--local Boolvalue=world.firstfloor.BoolValue
+--acc=Enum.KeyCode.Mouse0
+--if KeyState == Enum.KeyState.KeyStatePress and hitthen
+--   if Boolvalue.Value ==false then 
+--		print("打开啦！111")
+--		world.firstfloor.Position=world.End1.Position
+--		Boolvalue.Value=true
+   
+--   else
+--		print("关上啦！222")
+--		world.firstfloor.Position=world.Start1.Position
+--		Boolvalue.Value=false
+--	end	
+--end

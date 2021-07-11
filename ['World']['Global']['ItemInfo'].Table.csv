@@ -1,0 +1,26 @@
+Type,String,String,Int,String,String,String,Boolean,String,String,String,String,Boolean,Boolean,Boolean,String,String,String
+,ID,Name,MaxCount,Icon,Model,Texture,Active,UseFunc,DropFunc,Prop1,Prop2,Contactable,Checkable,Pickable,SE_Pick,SE_UseOrCombne,Description
+1,A1,钩子,1,gouzi,model_ammo_soft,T_Ammunition_Small_01,TRUE,Combine,Normal,,,FALSE,TRUE,TRUE,SE_Item_Pick01,SE_Item_Use01,"掉在床下的铁钩,已经生锈了.钩子底部缠着铁丝，似乎可以和什么组合在一起。"
+2,A2,日记本,1,notebook,model_ammo_sec,T_Ammunition_Medium_01,TRUE,ShowNotebook,Normal,,,FALSE,TRUE,TRUE,SE_Item_Pick01,SE_Item_Use01,日记本的前面被撕掉了。
+3,A3,床头柜上的纸,1,jiemi,model_ammo_rocket,T_Ammunition_Big_01,TRUE,ShowPaperBedside,Normal,,,FALSE,TRUE,TRUE,SE_Item_Pick01,SE_Item_Use01,一张画着奇怪图案的纸。
+4,A4,铲子,1,chanzi,model_energy,T_energy,TRUE,Normal,Normal,,,FALSE,TRUE,TRUE,SE_Item_Pick01,SE_Item_Use01,普通的花铲。
+5,A5,书架上的纸,1,poem,model_bandage,T_bandage,TRUE,ShowPaperBookshelf,Normal,,,FALSE,FALSE,TRUE,SE_Item_Pick01,SE_Item_Use01,所有纸上都写着奇怪的诗歌。
+6,A6,科学家采访,1,interview,model_medicine,T_medicine,TRUE,Normal,Normal,,,FALSE,FALSE,TRUE,SE_Item_Pick01,SE_Item_Use01,……战争一触即发。脑心理帝国实验室的主试验员R博士称，他们正在进行秘密试验，试验结果将对战争有着强大的影响力。
+7,A7,输液架,1,icon_grenade,model_grenade,T_grenade,TRUE,Normal,Normal,,,FALSE,FALSE,FALSE,SE_Item_Pick01,SE_Item_Use01,可以拆卸的输液架。
+8,A8,针管,1,icon_grenade_bolo,model_grenade_bolo,T_grenade_bolo,TRUE,Normal,Normal,,,FALSE,TRUE,TRUE,SE_Item_Pick01,SE_Item_Use01,使用过的注射器，针尖还有暗红色的血，看着让人焦躁。
+9,A9,摄像头,1,icon_grenade_bolo,model_grenade_stun,T_grenade_stun,TRUE,Normal,Normal,,,FALSE,TRUE,FALSE,SE_Item_Pick01,SE_Item_Use01,到处都是用来监视我的摄像头，这个鬼地方。
+10,A10,铁柜,1,icon_helmet1,model_helmet1,T_helmet1,TRUE,Normal,Normal,,,TRUE,FALSE,FALSE,SE_Item_Pick01,SE_Item_Use01,废旧的生锈铁柜，被牢牢地锁住无法打开。里面似乎有什么东西，我需要一个很长的工具将它取出来。
+11,A11,镜子,1,icon_helmet2,model_helmet2,T_helmet2,TRUE,Normal,Normal,,,FALSE,TRUE,FALSE,SE_Item_Pick01,SE_Item_Use01,前阵子，伴随着不知什么生物的吼叫，这镜子就碎了。希望没有什么危险。
+12,A12,机关,1,icon_helmet3,model_helmet3,T_helmet3,TRUE,Normal,Normal,,,TRUE,FALSE,FALSE,SE_Item_Pick01,SE_Item_Use01,墙上的按钮似乎另有玄机。
+13,A13,钟,1,icon_armor1,model_armor1,T_armor1,TRUE,Normal,Normal,,,FALSE,TRUE,FALSE,SE_Item_Pick01,SE_Item_Use01,坏了的钟，我早已经没有时间的概念。
+14,A14,鹤画,1,icon_armor2,model_armor2,T_armor2,TRUE,Normal,Normal,,,FALSE,FALSE,FALSE,SE_Item_Pick01,SE_Item_Use01,一幅画着鹤的画。
+15,A15,鸟画,1,icon_armor3,model_armor3,T_armor3,TRUE,Normal,Normal,,,FALSE,FALSE,FALSE,SE_Item_Pick01,SE_Item_Use01,一幅画着鸟的画。
+16,A16,龟画,1,icon_bag,model_tempbox,T_tempbox,TRUE,Normal,Normal,,,FALSE,FALSE,FALSE,SE_Item_Pick01,SE_Item_Use01,一幅画着龟的画。
+17,A17,地图,1,icon_bag1,model_bag1,T_bag1,TRUE,Normal,Normal,,,FALSE,TRUE,FALSE,SE_Item_Pick01,SE_Item_Use01,依据地图这个研究所建在森林里。离开这该死的房间之后，我必须快点跑出森林，寻找救援。
+18,A18,花,1,icon_bag2,model_bag2,T_bag2,TRUE,Normal,Normal,,,FALSE,TRUE,FALSE,SE_Item_Pick01,SE_Item_Use01,异常茂盛的植物。
+19,A19,花盆里面的刀,1,xiaodao ,model_bag3,T_bag3,TRUE,Normal,Normal,,,FALSE,TRUE,TRUE,SE_Item_Pick01,SE_Item_Use01,花盆里有一把锐利的刀，十分锋利，可以轻易斩断肢体……我在想什么？
+20,A20,研究员的手,1,shou,model_mirror2,T_Gun_Sight_01,TRUE,Normal,Normal,,,FALSE,FALSE,TRUE,SE_Item_Pick01,SE_Item_Use01,来送饭的研究员，被我钉在了墙上。我的牙刷柄戳破了他的动脉，深深地捅进墙里。我不知道我哪里来的力气，也不知道我接下来要做什么，但我现在脑子里只有一个声音“逃出去。”不知道是不是错觉，我总感觉那些从挣扎的手腕上流出的温热血液十分诱人。
+21,A21,宝箱里的试验报告,1,icon_mirror4,model_mirror4,T_Gun_Sight_03,TRUE,ShowReport,Normal,,,FALSE,TRUE,TRUE,SE_Item_Pick01,SE_Item_Use01,这是..他们所进行的实验么。
+22,A22,密码锁,1,icon_mirror8,model_mirror8,T_Gun_Sight_04,TRUE,Normal,Normal,,,TRUE,FALSE,FALSE,SE_Item_Pick01,SE_Item_Use01,有两种方式可以打开，指纹或是三位密码。在房间内找找线索吧。
+23,A23,铁管,1,tieguan,model_mirror9,T_Gun_Sight_05,TRUE,Normal,Normal,,,FALSE,TRUE,TRUE,SE_Item_Pick02,SE_Item_Use02,纤细的长铁管，十分坚固。
+24,A24,长勾,1,icon_mirror10,model_mirror10,T_Gun_Sight_06,TRUE,Normal,Normal,,,FALSE,FALSE,FALSE,SE_Item_Pick03,SE_Item_Use03,由铁管和钩子组合成的长钩，可以勾出较远的物品。

@@ -1,0 +1,12 @@
+LocalizeKey,Note,Default
+ArchetypesPlayerLocalScreenGUIText,,右键拾取
+ArchetypesPlayerLocalScreenGUIText(0),,左键检视
+ArchetypesPlayerLocalScreenGUIText(1),,右键进行交互
+WorldModelsOtherHiddenChestScreenGUIButton,,
+WorldModelsOtherHiddenChestScreenGUIButton_mainButton,,
+WorldModelsOtherHiddenChestSurfaceGUIText,,这是...他们进行的实验
+ArchetypesCamera_IronItemSurfaceGUIText,,
+ArchetypesPlayerLocalScreenGUI_BeginFigure_StartFengmianButton,,
+ArchetypesPlayerLocalScreenGUI_BeginFigure_StartButton,,
+ArchetypesPlayerLocalScreenGUI_BeginFigure_AboutPanelFigureText,,关于游戏
+ArchetypesPlayerLocalScreenGUI_BeginFigure_AboutFigureButton,,
